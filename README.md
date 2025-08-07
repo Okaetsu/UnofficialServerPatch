@@ -1,6 +1,6 @@
 ## About
 
-This mod is intended for Dedicated Servers to help prevent various serious bugs that may negatively impact gameplay or otherwise cause your server to be stuck in a crash loop. List of fixes included with the mod:
+This mod is intended for Palworld's Dedicated Servers to help prevent various serious bugs that may negatively impact gameplay or otherwise cause your server to be stuck in a crash loop. List of fixes included with the mod:
 
 - [x] Prevents crashing when a player's data is still referenced within a guild, but the player itself doesn't exist in the save anymore.
 - [x] Prevents crashing when an unbuilt Electricity Generator exists within a base after a server restart, though I'm not entirely sure if this crash extends to other things so I will keep this section updated.
